@@ -8,11 +8,11 @@
         <title>Coding Challenge</title>
     </head>
     <body>
-      <h1 class="text-center my-5">Hello World</h1>
+     
         {{-- Extra Credit --}}
-        {{-- <div class="content" id="app">
+        <div class="content" id="app">
            <router-view></router-view>
         </div>
-        <script src="{{ mix('js/app.js') }}"></script> --}}
+        <script src="{{ mix('js/app.js') }}"></script>
      </body>
 </html>
